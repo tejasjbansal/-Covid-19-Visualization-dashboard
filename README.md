@@ -10,6 +10,8 @@ Plotly's Python graphing library makes interactive, publication-quality graphs. 
 
 
 Link to the web application : https://covid19indiaorg.herokuapp.com/
+Username = covid
+password = 2019
 
 # Steps
 1. download the folder
@@ -20,13 +22,13 @@ Link to the web application : https://covid19indiaorg.herokuapp.com/
 
 
 
-![Screenshot (1)](https://user-images.githubusercontent.com/56173595/94288947-a99b3880-ff75-11ea-8ffd-5f3bb8b4fd9d.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/56173595/94290405-c33d7f80-ff77-11ea-8cbf-5e9ff7c1b012.png)
 
 
-![Screenshot (2)](https://user-images.githubusercontent.com/56173595/94288950-ab64fc00-ff75-11ea-8580-f91f32246b50.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/56173595/94290421-c8023380-ff77-11ea-9243-8f05d89d61ab.png)
 
 
-![Screenshot (3)](https://user-images.githubusercontent.com/56173595/94288987-b586fa80-ff75-11ea-9a9f-88b2ad534727.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/56173595/94290427-c9336080-ff77-11ea-85bd-966da7cc5f42.png)
 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/56173595/94288994-b7e95480-ff75-11ea-9dd1-481aa16c5d11.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/56173595/94290429-c9cbf700-ff77-11ea-9d9b-e4ddc6423a03.png)
