@@ -10,8 +10,7 @@ Plotly's Python graphing library makes interactive, publication-quality graphs. 
 
 
 Link to the web application : https://covid19indiaorg.herokuapp.com/
-Username = covid
-password = 2019
+
 
 # Steps
 1. download the folder
