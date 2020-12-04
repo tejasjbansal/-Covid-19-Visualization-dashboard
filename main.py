@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 import dash
-import dash_auth
+#import dash_auth
 import plotly.express as px
 import dash_core_components as dcc
 import dash_html_components as html
@@ -9,17 +9,17 @@ from plotly.subplots import make_subplots
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output,State
 
-VALID_USERNAME_PASSWORD_PAIRS = {
-    'covid': '2019'
-}
+#VALID_USERNAME_PASSWORD_PAIRS = {
+#    'covid': '2019'
+#}
 
 external_stylesheets = ["assets/main.css"]
 app = dash.Dash(__name__,external_stylesheets=external_stylesheets,suppress_callback_exceptions=True)
 
-auth = dash_auth.BasicAuth(
-    app,
-    VALID_USERNAME_PASSWORD_PAIRS
-)
+#auth = dash_auth.BasicAuth(
+#    app,
+#    VALID_USERNAME_PASSWORD_PAIRS
+#)
 server = app.server
 daily_case_url = 'https://api.covid19india.org/data.json'
 daily_case = requests.get(daily_case_url)
