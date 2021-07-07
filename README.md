@@ -1,5 +1,5 @@
 # Covid-19-Visualization-dashboard Using Dash And Plotly
-Covid-19 Dashboard track the corona virus cases and shows the real time data on app launch and shows the data on a dashboard. This Project was developed in Python, Dash and plotly.
+Covid-19 Dashboard track the corona virus cases in India and shows the real time data to the users in the visual form example maps and charts. This Project was developed in Python, Dash and plotly.
 
 # Dash 
 Dash is the most downloaded, trusted framework for building ML & data science web apps.
